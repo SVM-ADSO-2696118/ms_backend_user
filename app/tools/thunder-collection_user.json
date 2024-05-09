@@ -1,0 +1,23 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "user",
+    "collectionId": "51c5a9ab-95d6-4532-b463-473184b9b529",
+    "dateExported": "2024-04-25T16:54:11.740Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "523c016c-6de8-45b8-9d68-8fd7a6134673",
+            "colId": "51c5a9ab-95d6-4532-b463-473184b9b529",
+            "containerId": "",
+            "name": "api",
+            "url": "http://localhost:6000/api/user",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2024-04-25T16:52:28.821Z",
+            "modified": "2024-04-25T16:52:34.406Z",
+            "headers": []
+        }
+    ],
+    "ref": "mkX58HbV9Eqh7wM0peRZXraRNT1Eut6PLToqJgzcwPYJsWoA_YovOAiFtQMY_Aq1ViJ6Qn37XyU8pZ8zmrTngQ"
+}
