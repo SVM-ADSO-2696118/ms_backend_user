@@ -112,7 +112,7 @@ export const logUser = async(req, res) =>{
         success(req, res, 200, {token});
 
 
-    } catch (error) {
+    } catch (err) {
         error(req, res, 500, "Error en el servidor, por favor intente de nuevo");
 
     }
