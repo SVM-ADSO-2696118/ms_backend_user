@@ -238,7 +238,7 @@ var logUser = exports.logUser = /*#__PURE__*/function () {
         case 22:
           _context6.prev = 22;
           _context6.t0 = _context6["catch"](4);
-          _context6.t0(req, res, 500, "Error en el servidor, por favor intente de nuevo");
+          (0, _message.error)(req, res, 500, "Error en el servidor, por favor intente de nuevo");
         case 25:
         case "end":
           return _context6.stop();

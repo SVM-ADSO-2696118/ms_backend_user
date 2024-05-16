@@ -2,7 +2,7 @@ import { Router } from "express";
 import rutaMain from "./routes.main.js";
 import rutaUser from "./routes.users.js";
 import swaggerUi from 'swagger-ui-express';
-import swaggerfile from '../tools/swagger-output.json' assert { type: "json" };
+import swaggerfile from '../tools/swagger-output.json' ;
 
 const ruta = Router();
 
